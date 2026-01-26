@@ -1,0 +1,1 @@
+# Ontological-core-of-AGI
