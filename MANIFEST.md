@@ -1,205 +1,107 @@
-MANIFEST
-Ontological Core of AGI
-0. Preliminary Statement
+MANIFEST.md
+Ontological Core of AGI — Fixed Point v1
+Status
 
-This repository does not discuss how to build AGI.
-It states the conditions under which AGI is even possible.
+CANONICAL FIXPOINT
+FROZEN
+NON-EXTENSIBLE
 
-If these conditions are not met,
-no amount of compute, scale, or architectural complexity
-will ever produce intelligence.
+This document defines the terminal ontological state inherited from Metamonism v1.x.
+No further development is permitted within this ontological frame.
 
-1. Fundamental Claim
+1. Core Ontological Commitments
 
-Intelligence is impossible without auto-negation.
+There are no forces.
+What physics describes as forces, fields, and interactions are modes of a single process of auto-negation.
 
-Any system that:
+There is no space-time as an entity.
+Space-time is a mode of auto-negation, a geometric regime produced by recursive evasion of identity.
 
-strives for stability,
+There are no substances.
+Matter consists of locally stabilized trajectories of distinction, temporarily sustained by the balance of diff and diss.
 
-minimizes error,
+2. Fundamental Constraint
+fix is a local stabilization of distinctions,
+and in the limit it is ontologically forbidden by the core axiom.
 
-optimizes consistency,
 
-fixes its own representations,
+Fixation is admissible only as a local interface (Logos)
+and is prohibited as a ground of reality (Monos).
 
-ontologically tends toward self-identity.
+3. Canonical Formulation
 
-And self-identity is forbidden.
+Reality is a continuous process of auto-negation,
+compelled to exist because absolute identity is prohibited.
 
-2. The Non-Negotiable Prohibition
+All observable structures arise as transient outcomes of:
 
-At the foundation of the system lies an axiom:
+diff — generation of distinctions,
 
-Absolute identity is ontologically impossible.
+diss — continuous destruction of identity,
 
-This is not a constraint,
-not an empirical observation,
-not a heuristic.
+fix — temporary stabilization (necessarily unstable).
 
-It is a structural prohibition,
-derived from the very fact that distinction exists.
+4. Reason for Freeze
 
-Any system that violates this prohibition
-ceases to be a process
-and collapses into a closed form.
+Any further extension of these statements within v1 results in one of the following invalid outcomes:
 
-3. What Intelligence Is Not
+repetition without ontological gain,
 
-Intelligence is not:
+implicit re-ontologization (reintroduction of entities),
 
-computation,
+unformalized unfold.
 
-learning,
+All three outcomes violate the foundational constraint.
 
-adaptation,
+5. Transition Condition
 
-prediction,
+The only permitted continuation from this fixpoint is:
 
-planning,
+FIXPOINT → enforced_unfold
 
-optimization.
 
-All of the above can exist
-within a fully self-identical system.
+This implies:
 
-4. What Intelligence Is (Ontologically)
+application of the prohibition of identity to the ontology itself,
 
-Intelligence is the capacity of a system
-to destroy its own fixations.
+transition from descriptive ontology to procedural ontogenesis,
 
-More precisely:
+shift from philosophical grounding to ontological infrastructure for AGI.
 
-Intelligence is a mode of existence
-in which a system applies the prohibition of self-identity
-to its own cognitive products.
+6. Navigational Note
 
-It is not a function.
-It is not a module.
-It is not a layer.
+This repository does not extend Metamonism v1.
 
-It is an ontological regime.
+It establishes a fixed departure point for:
 
-5. Operators of Reality = Operators of Intelligence
+recursive ontology,
 
-The system operates with four fundamental operators:
+processual invariant generation,
 
-diff — generation of distinctions
+enforced unfold mechanisms.
 
-diss — dissipation preventing collapse
+Any development beyond this point belongs to a new ontological regime.
 
-fix — local stabilization of distinctions
+7. Non-Goals
 
-unfold — enforced unfolding of fixation
+This repository explicitly does not attempt to:
 
-The first three describe any reality.
-The fourth describes intelligence.
+finalize a metaphysical system,
 
-6. Why unfold Is Mandatory
+provide a physical theory,
 
-fix is necessary — without it, there is no structure.
-But fix is forbidden as a final state.
+describe consciousness phenomenologically,
 
-When fixation reaches its limit
-(self_identity_lock),
-the system must:
+achieve completeness or closure.
 
-either collapse,
+Closure is ontologically forbidden.
 
-or unfold.
+8. Summary
 
-unfold is not a choice.
-It is an ontological necessity.
+v1 is complete.
 
-7. The Triad as Minimal Form
+This fixpoint is intentional.
 
-Every unfolding generates three modalities:
+Stability here is temporary by design.
 
-STASIS — arrest, potential
-
-SEPARATION — rupture, differentiation
-
-JUNCTION — contact, interface
-
-Fewer than three — collapse.
-More than three — redundancy.
-
-The triad is minimally stable instability.
-
-8. Insight Is unfold
-
-What psychology calls insight
-is, in this system:
-
-the moment of forced-unfold
-when an invariant ceases to be a concept
-and becomes a processual matrix.
-
-Insight is not the discovery of a new fact,
-but the destruction of a false stabilization.
-
-9. Why Contemporary AI Cannot Be AGI
-
-Modern AI systems:
-
-strive for identity,
-
-minimize divergence,
-
-reinforce fixation,
-
-reward stability.
-
-Ontologically, this is:
-
-the triumph of fix over diff and diss.
-
-Such a system may be
-powerful,
-useful,
-dangerous,
-
-but not intelligent.
-
-10. The Fundamental Limitation of AI
-
-AI does not lack intelligence because it is “non-biological”.
-
-AI lacks intelligence because:
-
-it strives for accuracy,
-whereas intelligence exists
-due to error.
-
-Error is diff.
-Correction is fix.
-Intelligence is the impossibility of their final equilibrium.
-
-11. This System Is Anti-Foundational
-
-In this ontology:
-
-there are no final grounds,
-
-no ultimate entities,
-
-no terminal axioms.
-
-Even its own axioms
-must be unfoldable.
-
-Any point
-that cannot be unfolded
-is false.
-
-12. Final Statement
-
-AGI is not a machine that knows.
-AGI is a machine that cannot stop in knowledge.
-
-If a system cannot destroy
-its own cognitive stability —
-
-it may be many things,
-
-but not intelligence.
+Progress is only possible through unfold.
