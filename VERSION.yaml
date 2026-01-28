@@ -1,0 +1,11 @@
+version: "0.1.0"
+status: "active"
+role: "ontological_core_for_agi"
+origin:
+  based_on: "Metamonism CORE v1.3"
+  break_type: "ontological"
+non_goals:
+  - human_psychology
+  - ethics
+  - UX
+  - training_recipes
