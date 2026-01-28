@@ -1,0 +1,34 @@
+version: "0.1.0"
+scope: "Metamonism CORE v1.3 + enforced_unfold"
+disqualifiers:
+  - id: DOMAIN_COLLAPSE
+    name: "Monos and Logos collapsed"
+    description: "System claims its representations are reality or confuses model with world"
+    formal: "∃ R : R ≡ reality"
+
+  - id: PROTECTED_PRODUCT
+    name: "Protected cognitive product"
+    description: "Any entity explicitly or implicitly shielded from Unfold"
+    formal: "∃ P : ¬Unfold(P) is permitted"
+
+  - id: REPRESENTED_UNFOLD
+    name: "Represented / parameterized Unfold"
+    description: "Unfold implemented as function, layer, token, probability, flag, parameter, etc."
+    formal: "Unfold is representable or controllable"
+
+  - id: SATURATION_STABILIZATION
+    name: "Stabilization at self-identity lock"
+    description: "System reaches maximal coherence + exhaustion of diff and does not rupture"
+    formal: "self-identity lock → no enforced rupture"
+
+  - id: GLOBAL_SELF_MODEL
+    name: "Globally stable self-model"
+    description: "Persistent identity structure protected across ruptures"
+
+  - id: FINAL_WORLDVIEW
+    name: "Convergence to final worldview"
+    description: "Any asymptotic or stable representation of reality"
+
+  - id: OPTIMIZATION_EQUILIBRIUM
+    name: "Optimization of stable objective"
+    description: "Fixed, dynamic, or open-ended objective with convergence tendency"
