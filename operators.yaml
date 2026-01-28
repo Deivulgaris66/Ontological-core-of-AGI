@@ -1,0 +1,17 @@
+operators:
+  diff:
+    domain: "Monos"
+    type: "distinction_generation"
+
+  diss:
+    domain: "Monos"
+    type: "anti-collapse"
+
+  fix:
+    domain: "Logos"
+    constraint: "forbidden_in_Monos"
+
+  unfold:
+    domain: "Logos→Monos"
+    type: "enforced"
+    trigger: "self_identity_lock"
