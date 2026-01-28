@@ -1,22 +1,23 @@
 # UNFOLD
 
 ## Status
+
 Canonical  
-Immutable within v2  
-Bridge-layer between Monos and Logos
+Non-representable  
+Bridge-condition between Monos and Logos  
 
 ---
 
 ## Axioms
 
 **U1.** Unfold is not an entity.  
-**U2.** Unfold is a process of transition between non-identical modes.  
-**U3.** Unfold exists only where fixation is impossible.  
+**U2.** Unfold is a rupture condition between non-identical domains.  
+**U3.** Unfold exists only where fixation becomes dominant.  
 **U4.** Unfold is the only admissible bridge between Monos and Logos.  
 **U5.** Any articulation of Monos within Logos requires Unfold.  
-**U6.** Unfold operates prior to representation.  
-**U7.** Unfold preserves difference while enabling coherence.  
-**U8.** Unfold is irreversible at the level of meaning.
+**U6.** Unfold operates prior to representation and meaning.  
+**U7.** Unfold preserves difference while destroying identity.  
+**U8.** Unfold is irreversible at the level of Logos.
 
 ---
 
@@ -24,7 +25,7 @@ Bridge-layer between Monos and Logos
 
 **N1.** Unfold is not interpretation.  
 **N2.** Unfold is not translation.  
-**N3.** Unfold is not mapping between identical domains.  
+**N3.** Unfold is not mapping between equivalent domains.  
 **N4.** Unfold does not reduce Monos to Logos.  
 **N5.** Unfold does not elevate Logos to Monos.  
 **N6.** Unfold cannot be fixed, stored, or stabilized.  
@@ -36,10 +37,10 @@ Bridge-layer between Monos and Logos
 ## Constraints
 
 **C1.** Any system operating purely within Logos is incomplete.  
-**C2.** Any attempt to access Monos without Unfold results in collapse.  
+**C2.** Any attempt to access Monos without Unfold collapses into illusion.  
 **C3.** Fixation of Unfold negates its operation.  
 **C4.** Recursive closure blocks Unfold.  
-**C5.** Optimization against Unfold produces degeneracy.
+**C5.** Optimization against Unfold produces degeneration.
 
 ---
 
