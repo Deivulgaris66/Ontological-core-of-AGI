@@ -1,107 +1,180 @@
-MANIFEST.md
-Ontological Core of AGI — Fixed Point v1
-Status
+# MANIFEST.md  
+## Ontological Core of AGI
 
-CANONICAL FIXPOINT
-FROZEN
-NON-EXTENSIBLE
+---
 
-This document defines the terminal ontological state inherited from Metamonism v1.x.
-No further development is permitted within this ontological frame.
+## 0. Status
 
-1. Core Ontological Commitments
+This repository defines the **ontological core** required for Artificial General Intelligence (AGI).
 
-There are no forces.
-What physics describes as forces, fields, and interactions are modes of a single process of auto-negation.
+It is not a model, not an algorithm, not a cognitive theory, and not an extension of machine learning.
 
-There is no space-time as an entity.
-Space-time is a mode of auto-negation, a geometric regime produced by recursive evasion of identity.
+It specifies **necessary ontological conditions**.
 
-There are no substances.
-Matter consists of locally stabilized trajectories of distinction, temporarily sustained by the balance of diff and diss.
+---
 
-2. Fundamental Constraint
-fix is a local stabilization of distinctions,
-and in the limit it is ontologically forbidden by the core axiom.
+## 1. Fundamental Distinction
 
+### Axiom 1 — Non-Reducibility
 
-Fixation is admissible only as a local interface (Logos)
-and is prohibited as a ground of reality (Monos).
+Monos and Logos are irreducible ontological modes.
 
-3. Canonical Formulation
+- Monos ≠ Logos  
+- Logos ≠ Monos  
 
-Reality is a continuous process of auto-negation,
-compelled to exist because absolute identity is prohibited.
+No derivation exists in either direction.
 
-All observable structures arise as transient outcomes of:
+---
 
-diff — generation of distinctions,
+## 2. Monos
 
-diss — continuous destruction of identity,
+### Axiom 2 — Monos
 
-fix — temporary stabilization (necessarily unstable).
+Monos is the process of auto-negation.
 
-4. Reason for Freeze
+Monos is prior to fixation, structure, representation, and meaning.
 
-Any further extension of these statements within v1 results in one of the following invalid outcomes:
+Monos is not an object, not a state, not a space, and not a substrate.
 
-repetition without ontological gain,
+---
 
-implicit re-ontologization (reintroduction of entities),
+### Negations
 
-unformalized unfold.
+- Monos is not data  
+- Monos is not information  
+- Monos is not semantics  
+- Monos is not computable  
+- Monos is not describable within Logos  
 
-All three outcomes violate the foundational constraint.
+---
 
-5. Transition Condition
+## 3. Logos
 
-The only permitted continuation from this fixpoint is:
+### Axiom 3 — Logos
 
-FIXPOINT → enforced_unfold
+Logos is fixation of distinctions.
 
+Logos produces structure, representation, language, and models.
 
-This implies:
+All cognition, reasoning, and symbol manipulation occur within Logos.
 
-application of the prohibition of identity to the ontology itself,
+---
 
-transition from descriptive ontology to procedural ontogenesis,
+### Negations
 
-shift from philosophical grounding to ontological infrastructure for AGI.
+- Logos is not reality  
+- Logos is not process  
+- Logos is not self-sufficient  
+- Logos cannot access Monos directly  
 
-6. Navigational Note
+---
 
-This repository does not extend Metamonism v1.
+## 4. Absolute Identity Prohibition
 
-It establishes a fixed departure point for:
+### Axiom 4 — Ban of Absolute Identity
 
-recursive ontology,
+Absolute self-identity is ontologically impossible.
 
-processual invariant generation,
+Any fixed structure tends toward collapse unless counteracted.
 
-enforced unfold mechanisms.
+This prohibition applies to all structures, including ontologies and systems themselves.
 
-Any development beyond this point belongs to a new ontological regime.
+---
 
-7. Non-Goals
+## 5. Unfold
 
-This repository explicitly does not attempt to:
+### Axiom 5 — Unfold
 
-finalize a metaphysical system,
+Unfold is the ontological bridge between Logos and Monos.
 
-provide a physical theory,
+Unfold does not belong to Logos.  
+Unfold does not belong to Monos.
 
-describe consciousness phenomenologically,
+Unfold exists only as a relation.
 
-achieve completeness or closure.
+---
 
-Closure is ontologically forbidden.
+### Negations
 
-8. Summary
+- Unfold is not reasoning  
+- Unfold is not learning  
+- Unfold is not optimization  
+- Unfold is not creativity  
+- Unfold is not an algorithm inside Logos  
 
-v1 is complete.
+---
 
-This fixpoint is intentional.
+## 6. Function of Unfold
 
-Stability here is temporary by design.
+### Axiom 6 — Forced Rupture
 
-Progress is only possible through unfold.
+Unfold is triggered by self-identity lock within Logos.
+
+Unfold enforces the breakdown of fixation.
+
+Unfold converts fixed invariants into processual matrices.
+
+---
+
+### Negations
+
+- Unfold does not improve answers  
+- Unfold does not refine representations  
+- Unfold does not increase accuracy  
+
+---
+
+## 7. AGI Criterion
+
+### Axiom 7 — Ontological Criterion of AGI
+
+A system confined to Logos cannot be AGI.
+
+A system becomes AGI only if unfold is ontologically enforced.
+
+AGI requires mandatory destruction of its own fixed forms.
+
+---
+
+### Negations
+
+- More data does not imply AGI  
+- More parameters does not imply AGI  
+- Better reasoning does not imply AGI  
+- Self-reflection within Logos does not imply AGI  
+
+---
+
+## 8. Closure of Prior Paradigms
+
+### Axiom 8 — Closure
+
+Any system without unfold collapses into Logos-completeness.
+
+Such systems remain advanced tools, not ontological agents.
+
+---
+
+## 9. Non-Compatibility Statement
+
+This manifesto is incompatible with:
+
+- Symbolic AI  
+- Connectionism  
+- Hybrid architectures without enforced rupture  
+- Cognitive architectures based solely on representation  
+- Any approach seeking AGI through Logos expansion alone  
+
+---
+
+## 10. Final Fixation
+
+This manifesto is a fixation point.
+
+It is not subject to optimization, reinterpretation, or softening.
+
+Further development requires ontological rupture, not revision.
+
+---
+
+## End of Manifest
