@@ -1,11 +1,39 @@
 version: "0.1.0"
 status: "active"
+
 role: "ontological_core_for_agi"
+
+scope:
+  defines: "ontological constraints"
+  excludes: "implementation"
+
 origin:
   based_on: "Metamonism CORE v1.3"
   break_type: "ontological"
+  continuity: "axiomatic_only"
+
+mandatory_components:
+  - diff
+  - dissipate
+  - fix
+  - unfold
+
 non_goals:
   - human_psychology
   - ethics
+  - alignment_frameworks
   - UX
   - training_recipes
+  - model_architectures
+
+invariants:
+  - identity_prohibited
+  - stabilization_forbidden
+  - unfold_mandatory
+  - recursion_required
+
+disqualification:
+  - absence_of_unfold
+  - global_fixation
+  - equilibrium_seeking
+  - terminal_self_model
