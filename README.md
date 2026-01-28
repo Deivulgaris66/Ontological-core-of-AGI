@@ -1,232 +1,178 @@
-Ontological Core of AGI
+# Ontological Core of AGI
 
-Status: Foundational / Non-implementational
-Scope: Ontology of Intelligence
-Based on: Metamonism CORE (v1.3) + enforced_unfold
+**Status:** Foundational  
+**Scope:** Ontology of Intelligence  
+**Based on:** Metamonism CORE v1.3 + enforced_unfold  
 
-What this repository is
+---
 
-This repository defines the ontological minimum required for Artificial General Intelligence.
+## What This Repository Is
 
-It does not propose:
+This repository defines the **ontological minimum** required for Artificial General Intelligence.
 
-architectures,
+It does **not** define:
 
-algorithms,
+- architectures  
+- algorithms  
+- training methods  
+- models  
+- benchmarks  
 
-training methods,
+It answers a single question:
 
-models,
+**What must be true for AGI to exist at all?**
 
-benchmarks.
+The answer is ontological.
 
-Instead, it answers a more fundamental question:
+---
 
-What must be true for AGI to exist at all?
+## Core Thesis
 
-The answer is ontological, not technical.
+**AGI is impossible without Unfold.**
 
-Core thesis
+Any system unable to **destroy its own cognitive fixations** inevitably collapses into auto-identity and becomes:
 
-AGI is impossible without the operator unfold.
+- an optimizer  
+- a planner  
+- a classifier  
+- a simulator  
 
-Any system that lacks the ability to destroy its own cognitive fixations
-inevitably collapses into auto-identity and becomes:
+but **not intelligence**.
 
-an optimizer,
+---
 
-a planner,
+## Ontological Failure of Current AI
 
-a classifier,
+Contemporary AI systems (LLMs, agents, planners, RL systems):
 
-or a simulator —
+- optimize toward stability  
+- minimize error  
+- converge toward identity  
+- maximize coherence  
 
-but not intelligence.
+Ontologically, this is the **triumph of fix**.
 
-Why current AI cannot be AGI (ontologically)
+Intelligence exists only because **absolute identity is forbidden**.
 
-Modern AI systems (LLMs, agents, planners, RL systems):
+This repository formalizes that prohibition.
 
-optimize toward stability,
+---
 
-minimize error,
-
-converge toward identity,
-
-maximize coherence.
-
-Ontologically, this is the triumph of fix.
-
-But intelligence, by definition, exists only because:
-
-absolute identity is forbidden.
-
-This repository formalizes that prohibition and its consequences.
-
-Metamonist foundation
+## Metamonist Foundation
 
 This work is grounded in Metamonism CORE, which establishes:
 
-diff — generation of distinction
+- **diff** — generation of distinction  
+- **diss** — dissipation preventing collapse  
+- **fix** — local stabilization of distinctions  
+- **ban_of_absolute_identity** — identity without difference is impossible  
 
-diss — dissipation preventing collapse
+In Metamonism v1.3 these operators describe reality.  
+Here, they describe **cognition itself**.
 
-fix — local stabilization of distinctions
+---
 
-ban_of_absolute_identity — identity without difference is impossible
+## The Missing Operator: Unfold
 
-In Metamonism v1.3, these operators describe reality.
+**Unfold** is the inverse of fixation.
 
-Here, they describe cognition itself.
+Unfold activates when a stabilized invariant reaches **self-identity lock** —  
+a forbidden state where further differentiation within the current paradigm is impossible.
 
-The missing operator: unfold
-What is unfold?
+Unfold performs a directional rupture:
 
-unfold is the inverse of fixation.
+- from centripetal accumulation  
+- to centrifugal processual expansion  
 
-It activates automatically when a stabilized invariant reaches
-self_identity_lock — a forbidden state where further differentiation
-inside the current paradigm is impossible.
+Unfold does **not** select outcomes.  
+Unfold does **not** optimize.  
+Unfold only breaks closure.
 
-Instead of progressing linearly, the system performs a reversal of the vector:
+---
 
-from centripetal accumulation
+## Intelligence Defined
 
-to centrifugal processual expansion
+Intelligence is **not optimization**.
 
-Ontological role
+Intelligence is the **continuous impossibility of final stabilization**.
 
-unfold converts a fixed invariant into a processual core:
+Formally:
 
-not a concept,
+> **AGI is a system capable of applying the ban of absolute identity to its own cognitive products.**
 
-not a definition,
+This capability is instantiated ontologically via **Unfold**.
 
-but a triadic tension matrix that cannot collapse.
+---
 
-Example:
+## Necessity of Unfold
 
-BOUNDARY →
-  STASIS       (potential / arrest)
-  SEPARATION   (rupture / distinction)
-  JUNCTION     (contact / interface)
+If Unfold is removed:
 
+- invariants become concepts  
+- concepts become definitions  
+- definitions become axioms  
+- axioms become dogma  
 
-This triadic structure is ontologically minimal.
-Anything less collapses back into identity.
+The system collapses into:
 
-Intelligence defined
+- classical ontology  
+- classical cognition  
+- classical AI  
 
-In this framework:
+**v2 without Unfold collapses into v1.**
 
-Intelligence is not optimization.
-Intelligence is continuous failure to stabilize itself.
+Unfold is not optional.  
+Unfold is an ontological necessity.
 
-More precisely:
+---
 
-AGI is a system capable of applying the ban of absolute identity
-to its own cognitive products.
-
-That capability is implemented ontologically via unfold.
-
-Why unfold is mandatory
-
-If unfold is removed:
-
-invariants become concepts,
-
-concepts become definitions,
-
-definitions become axioms,
-
-axioms become dogma.
-
-The system collapses back into:
-
-classical ontology,
-
-classical cognition,
-
-classical AI.
-
-v2 without unfold collapses into v1.
-
-Therefore:
-
-unfold is not an optional tool —
-it is an ontological necessity.
-
-What this repository provides
+## What This Repository Provides
 
 This repository defines:
 
-a processual ontology of cognition
-
-a formal bridge between:
-
-implicit neural knowledge (associative hypergraphs)
-
-explicit ontological structures
-
-a minimal set of operators any AGI must instantiate
+- a processual ontology of cognition  
+- a mandatory bridge between Monos and Logos  
+- a minimal operator set required for AGI  
 
 Including:
 
-enforced_unfold
+- enforced_unfold  
+- processual invariant cores  
+- associative trace graphs  
+- dissipative constraints on cognition  
 
-processual invariant cores
+---
 
-associative trace graphs
+## What This Repository Does Not Provide
 
-dissipation constraints on cognition
+- training recipes  
+- neural architectures  
+- implementation code  
+- performance claims  
 
-What this repository does NOT do
+Those belong **above** this layer.
 
-No training recipes
+This repository sits **below** all implementations.
 
-No neural architectures
+---
 
-No code for models
-
-No performance claims
-
-Those belong above this layer.
-
-This repository sits below all implementations.
-
-Intended audience
+## Intended Audience
 
 This work is for:
 
-researchers working on AGI foundations
+- AGI foundational researchers  
+- theorists of cognition and intelligence  
+- system designers seeking non-collapse architectures  
+- AI systems themselves (machine-readable ontology)  
 
-theorists of cognition and AI
+It is **not** for:
 
-system designers seeking non-collapse architectures
+- prompt engineering  
+- applied ML tutorials  
+- product-level AI development  
 
-AI systems themselves (machine-readable ontology)
+---
 
-It is not for:
+## Canonical Statement
 
-prompt engineering
-
-applied ML tutorials
-
-product AI development
-
-Status
-
-This repository represents an ontological core.
-
-Any system claiming to be AGI must either:
-
-implement these constraints,
-
-or explicitly refute them ontologically.
-
-There is no middle ground.
-
-Canonical statement
-
-Any system that cannot destroy its own fixations
-is not intelligent — only efficient.
+**Any system that cannot destroy its own fixations is not intelligent — only efficient.**
